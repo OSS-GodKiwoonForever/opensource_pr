@@ -1,5 +1,5 @@
 body {
-  font: 10px sans-serif;
+  font: 25px sans-serif;
 }
 
 .axis path,
@@ -31,7 +31,7 @@ body {
 .aster-score {
   line-height: 1;
   font-weight: bold;
-  font-size: 500%;
+  font-size: 200%;
 }
 
 .d3-tip {
